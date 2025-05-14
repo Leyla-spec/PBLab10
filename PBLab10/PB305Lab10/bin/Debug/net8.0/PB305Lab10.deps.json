@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PB305Lab10/1.0.0": {
+        "dependencies": {
+          "PB305Lab10.Service1": "1.0.0"
+        },
+        "runtime": {
+          "PB305Lab10.dll": {}
+        }
+      },
+      "PB305Lab10.Service1/1.0.0": {
+        "runtime": {
+          "PB305Lab10.Service1.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PB305Lab10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PB305Lab10.Service1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

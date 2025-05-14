@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PB305Lab10.Service1/1.0.0": {
+        "runtime": {
+          "PB305Lab10.Service1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PB305Lab10.Service1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

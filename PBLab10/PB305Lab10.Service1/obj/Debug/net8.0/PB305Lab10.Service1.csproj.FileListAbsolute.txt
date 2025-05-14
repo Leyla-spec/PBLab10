@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\bin\Debug\net8.0\PB305Lab10.Service1.deps.json
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\bin\Debug\net8.0\PB305Lab10.Service1.dll
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\bin\Debug\net8.0\PB305Lab10.Service1.pdb
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\obj\Debug\net8.0\PB305Lab10.Service1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\obj\Debug\net8.0\PB305Lab10.Service1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\obj\Debug\net8.0\PB305Lab10.Service1.AssemblyInfo.cs
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\obj\Debug\net8.0\PB305Lab10.Service1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\obj\Debug\net8.0\PB305Lab10.Service1.dll
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\obj\Debug\net8.0\refint\PB305Lab10.Service1.dll
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\obj\Debug\net8.0\PB305Lab10.Service1.pdb
+C:\Users\HP\source\repos\PB305Lab10\PB305Lab10.Service1\obj\Debug\net8.0\ref\PB305Lab10.Service1.dll
